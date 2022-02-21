@@ -1,5 +1,5 @@
 # yonge-latin
-Digitisation of Charles Yonge "A Phraseological English-Latin Dictionary" (1856)
+Digitisation of Charles Yonge _A Phraseological English-Latin Dictionary_ (1856)
 
 ## Source
 [Scan](https://archive.org/details/younge-c.-a-phraseological-latin-english-dictionary-1855/YOUNGE%2C%20C.%20-%20A%20Phraseological%20English%20-%20Latin%20Dictionary%20%5B1855%5D/) on Internet Archive.
