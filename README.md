@@ -1,7 +1,7 @@
 # yonge-latin
 Digitisation of Charles Yonge _A Phraseological English-Latin Dictionary_ (1856)
 
-**Transcription currently at 41.5% complete**
+**Transcription currently 41.5% complete**
 
 ## Source
 [Scan](https://archive.org/details/younge-c.-a-phraseological-latin-english-dictionary-1855/YOUNGE%2C%20C.%20-%20A%20Phraseological%20English%20-%20Latin%20Dictionary%20%5B1855%5D/) on Internet Archive.
